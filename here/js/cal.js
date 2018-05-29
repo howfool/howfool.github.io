@@ -15,7 +15,7 @@ function creategroup()	//生成一个多人用餐小组的函数
 {
 	var group=new Object;
 	var rand=Math.random();
-	group.num=Math.floor(pmin+(pmax - pmin)*rand);
+	group.num=Math.floor(parseInt(pmin)+(pmax - pmin)*rand);
 	showw("就餐"+group.num+"人");
 	var memall=new Array(0);
 	for(var i=0;i<group.num;i++)
@@ -166,7 +166,7 @@ sat.testif=function(num)					//测试可行座位,返回可行表
 function groupsit(agroup)		//随机分配座位，失败返回false
 {
 	var temp1=sat.testif(agroup.num);
-	if(!temp1) {return false;showw("座位不足");}
+	if(!temp1) {showw("座位不足");return false;}
 	var rand=Math.random();
 	var temp2=Math.floor(rand*temp1.length);
 	return expandr(sat.locat,Math.floor(temp1[temp2]/sqnum),temp1[temp2]%sqnum,agroup.num,agroup);
