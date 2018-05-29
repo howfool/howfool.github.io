@@ -16,7 +16,6 @@ function creategroup()	//生成一个多人用餐小组的函数
 	var group=new Object;
 	var rand=Math.random();
 	group.num=Math.floor(parseInt(pmin)+(pmax - pmin)*rand);
-	showw("就餐"+group.num+"人");
 	var memall=new Array(0);
 	for(var i=0;i<group.num;i++)
 	{
@@ -27,6 +26,7 @@ function creategroup()	//生成一个多人用餐小组的函数
 	group.birth=Date.parse(current);
 	var rand=Math.random();
 	group.life=((lifemax-lifemin)*rand+lifemin)*1000;
+	showw("就餐"+group.num+"人,寿命"+Math.floor(group.life/1000));
     group.unsit=function()
 	{
 		for(i in this.mem)

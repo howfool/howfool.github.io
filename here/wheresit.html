@@ -31,7 +31,9 @@
             setTimeout("startnow()",atimegre);
             var newg=creategroup();
             grouplist.push(newg);
-            console.log(groupsit(newg));
+            var nob=groupsit(newg);
+			if(nob)
+			showw(nob+"人就餐失败");
         }
         function todie()
         {
