@@ -416,7 +416,7 @@ width:10px;
 
 </table>
 <div class="fl"><p class="lock">这是就餐人数的生成速度（1~10）：</p></br><input type="number" min='1' max='10' value="1" id="peonum1" onchange="var x=document.getElementById('peonum1');var y=7000/x.value+500;atimegre=y;"></div>
-<div class="fl"><p class="lock">这是就餐人小组人数下限：</p></br><input type="number" min="1" max="400" value="1" id="peonum2" onchange="var x=document.getElementById('peonum2');pmin=x.value}"></div>
+<div class="fl"><p class="lock">这是就餐人小组人数下限：</p></br><input type="number" min="1" max="400" value="1" id="peonum2" onchange="var x=document.getElementById('peonum2');pmin=x.value;"></div>
 <div class="fl"><p class="lock">这是就餐人小组人数上限：</p></br><input type="number" min="1" value="3" max="450" id="peonum3" onchange="var x=document.getElementById('peonum3');if(x.value>=pmin){pmax=x.value;}"></div>
 <div class="fl"><p class="lock">这是就餐人用餐时间下限（实际时间在上下限间随机生成）</p></br><input type="num" min="2" max="1000" value="20" id="peonum4" onchange="var x=document.getElementById('peonum4');lifemin=x.value;"></div>
 <div class="fl"><p class="lock">这是就餐人用餐时间上限：</p></br><input type="num" min="2" max="1000" id="peonum5" value="30" onchange="var x=document.getElementById('peonum5');if(x.value>=lifemin){lifemax=x.value;}"></div>
