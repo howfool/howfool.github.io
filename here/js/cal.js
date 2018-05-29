@@ -1,9 +1,9 @@
 sqnum=22;				//用餐区域边长
 pnum=sqnum*sqnum;		//面积
 lifemin=20;				//用餐时间最小值
-lifemax=30;				//用餐时间最大值
+lifemax=300;				//用餐时间最大值
 pmin=1;
-pmax=3;
+pmax=30;
 function createmem()	//生成小组单个成员的函数
 {
 	var mem=new Object;
