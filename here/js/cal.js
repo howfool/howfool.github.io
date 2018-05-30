@@ -25,7 +25,7 @@ function creategroup()	//生成一个多人用餐小组的函数
 	var current=new Date();
 	group.birth=Date.parse(current);
 	var rand=Math.random();
-	group.life=((lifemax-lifemin)*rand+lifemin)*1000;
+	group.life=((lifemax-lifemin)*rand+parseInt(lifemin))*1000;
 	showw("就餐"+group.num+"人,寿命"+Math.floor(group.life/1000));
     group.unsit=function()
 	{
