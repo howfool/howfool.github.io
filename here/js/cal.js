@@ -3,7 +3,7 @@ pnum=sqnum*sqnum;		//面积
 lifemin=20;				//用餐时间最小值
 lifemax=300;				//用餐时间最大值
 pmin=1;
-pmax=30;
+pmax=5;
 function createmem()	//生成小组单个成员的函数
 {
 	var mem=new Object;
