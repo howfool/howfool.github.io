@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-10-26T14:19:33+08:00</updated><id>/feed.xml</id><subtitle></subtitle><entry><title type="html">很丑的网址导航</title><link href="/tools/2019-10-23-useurls.html" rel="alternate" type="text/html" title="很丑的网址导航" /><published>2019-10-23T13:01:12+08:00</published><updated>2019-10-23T13:01:12+08:00</updated><id>/tools/useurls</id><content type="html" xml:base="/tools/2019-10-23-useurls.html">&lt;style type=&quot;text/css&quot;&gt;
+  img{width:4rem;}
+table{max-width:90%;
+font-size:1rem;
+    margin: auto;}
+.q2 td{max-height:3rem;
+font-size:1rem;
+text-overflow: ellipsis; 
+overflow: hidden; 
+}
+hd{display:none;}
+&lt;/style&gt;
+
+&lt;h2 id=&quot;书籍论文资源网站&quot;&gt;书籍论文资源网站&lt;/h2&gt;
+
+&lt;table class=&quot;q2&quot; id=&quot;sb&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;图标&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;网站&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;访问情况&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;图标&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;网站&lt;/th&gt;
+      &lt;th&gt;访问情况&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/url6.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//sci-hub.tw/&quot; title=&quot;Sci-Hub: removing barriers in the way of science&quot;&gt;&lt;strong&gt;Sci-Hub&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;ur6&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/url6.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//sci-hub.se/&quot; title=&quot;Sci-Hub: removing barriers in the way of science&quot;&gt;&lt;strong&gt;Sci-Hub&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;ur8&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/url5.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//en.booksee.org/&quot; title=&quot;Electronic Library. Download books for free. Over 2 million books and magazines&quot;&gt;booksee&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;ur5&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/url3.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//b-ok.org/&quot; title=&quot;Electronic library. Download books free. Finding books&quot;&gt;&lt;strong&gt;ZLibrary&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;ur3&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/url1.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//gen.lib.rus.ec/&quot; title=&quot;Library Genesis&quot;&gt;Library Genesis&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;ur1&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/url2.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//libgen.me/&quot; title=&quot;libgen&quot;&gt;libgen&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;ur2&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/url4.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//libgen.org/&quot; title=&quot;Libgen org&quot;&gt;Libgen org&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;ur4&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/url7.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//lunwen.im/&quot; title=&quot;喵咪论文 - 简单自由的论文下载平台&quot;&gt;&lt;strong&gt;喵咪论文&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;ur7&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;以下是谷歌学术镜像&quot;&gt;以下是谷歌学术镜像&lt;/h2&gt;
+&lt;h3 id=&quot;请不要在谷歌镜像上登陆任何账号&quot;&gt;&lt;strong&gt;请不要在谷歌镜像上登陆任何账号&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;table class=&quot;q2&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;图标&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;网站&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;访问情况&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;图标&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;网站&lt;/th&gt;
+      &lt;th&gt;访问情况&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/link1.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//so.hiqq.com.cn&quot; title=&quot;HiQQ 学术搜索&quot;&gt;HiQQ 学术搜索&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;li1&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/link2.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//a.glgoo.top/scholar/&quot; title=&quot;gfsoso 学术搜索&quot;&gt;gfsoso 学术搜索&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;li2&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/link3.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//xueshu.soogle.top&quot; title=&quot;Soogle Scholar&quot;&gt;Soogle Scholar(镜像)&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;li3&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/link4.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.ndtsg.com/&quot; title=&quot;牛顿网 - 谷歌学术搜索镜像&quot;&gt;牛顿网 - 谷歌学术搜索镜像&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;li4&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/link5.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//www.80xueshu.com/&quot; title=&quot;80学术 文献检索下载&quot;&gt;80学术 文献检索下载&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;li5&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/link6.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//xs.glgoo.top/scholar&quot; title=&quot;gfsoso 学术搜索&quot;&gt;gfsoso 学术搜索&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;li6&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/link7.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//scholar.123admin.com/&quot; title=&quot;Glgoo 学术搜索&quot;&gt;Glgoo 学术搜索&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;li7&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/img/vdtb/link8.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//nav.hiqq.com.cn/txs/&quot; title=&quot;学术导航_HiQQ搜索&quot;&gt;学术导航_HiQQ搜索&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;span id=&quot;li1&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/img/vdtb/link9.ico&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;//scholar.123admin.com/&quot; title=&quot;Glgoo 学术搜索&quot;&gt;谷粉学术&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;span id=&quot;li9&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;script&gt;
+$(&quot;a&quot;).each(function(){this.target=&quot;_blank&quot;});
+var tim=1;setInterval(&quot;tim++&quot;,10);var ts={};
+_src_={&quot;ur1&quot;:&quot;//gen.lib.rus.ec/&quot;,&quot;ur2&quot;:&quot;//libgen.me/&quot;,&quot;ur3&quot;:&quot;//b-ok.org/&quot;,&quot;ur4&quot;:&quot;//libgen.org/&quot;,&quot;ur5&quot;:&quot;//en.booksee.org/&quot;,&quot;ur6&quot;:&quot;//sci-hub.tw/&quot;,&quot;li1&quot;:&quot;//so.hiqq.com.cn&quot;,&quot;li2&quot;:&quot;//sci-hub.org.cn/&quot;,&quot;li3&quot;:&quot;//xueshu.soogle.top&quot;,&quot;li4&quot;:&quot;//www.ndtsg.com/&quot;,&quot;li5&quot;:&quot;//www.80xueshu.com/&quot;,&quot;li6&quot;:&quot;//xs.glgoo.top/scholar&quot;,&quot;li7&quot;:&quot;//scholar.123admin.com/&quot;,&quot;li8&quot;:&quot;//nav.hiqq.com.cn/txs/&quot;,&quot;li9&quot;:&quot;//gfsoso.99lb.net/&quot;,&quot;url7&quot;:&quot;//lunwen.im/&quot;,&quot;url8&quot;:&quot;//sci-hub.se/&quot;};
+$(&quot;span&quot;).each(function(){ {var sid=this.id;var timg=document.createElement(&quot;img&quot;);ts[sid]=tim;$(timg).load(function(){$(this).parent().text(&quot;访问用时&quot;+(tim-ts[sid])/100+'s');});$(timg).error(function(ss){console.log(ss);var tt =(tim-ts[sid])/100;if (tt&gt;4){$(this).parent()[0].innerHTML=&quot;&lt;font color=red&gt;连接超时！&lt;\/font&gt;&quot;;}else{$(this).parent()[0].innerHTML=&quot;&lt;font color=green&gt;访问用时&quot;+tt+'s&lt;\/font&gt;'}});timg.src=_src_[sid]+'#g'+Math.ceil(Math.random()*10000) + '.gif';;$(this).prepend(timg)} })
+/*$(&quot;span&quot;).append(&quot;&lt;img class='hd' src=&quot;+_src_+&quot;&gt;&quot;);function auto(a){console.log(a)}*/&lt;/script&gt;
+&lt;!--
+
+&lt;img class=&quot;hidden&quot; src=&quot;http://so.hiqq.com.cn/&quot; onerror=&quot;auto(this)&quot;&gt;
+&lt;img class=&quot;hidden&quot; src=&quot;https://sci-hub.org.cn/#g6119.gif&quot; onerror=&quot;auto(this)&quot;&gt;
+&lt;img class=&quot;hidden&quot; src=&quot;https://xueshu.soogle.top/#g2385.gif&quot; onerror=&quot;auto(this)&quot;&gt;
+&lt;img class=&quot;hidden&quot; src=&quot;http://www.ndtsg.com/#g6637.gif&quot; onerror=&quot;auto(this)&quot;&gt;
+&lt;img class=&quot;hidden&quot; src=&quot;https://www.80xueshu.com/#g4734.gif&quot; onerror=&quot;auto(this)&quot;&gt;
+&lt;img class=&quot;hidden&quot; src=&quot;https://xs.glgoo.top/#g5040.gif&quot; onerror=&quot;auto(this)&quot;&gt;
+&lt;img class=&quot;hidden&quot; src=&quot;https://scholar.123admin.com/#g3302.gif&quot; onerror=&quot;auto(this)&quot;&gt; 
+&lt;img class=&quot;hidden&quot; src=&quot;https://g.zwnes.tk/&quot; onerror=&quot;console(err)&quot;&gt;--&gt;
+&lt;style type=&quot;tetx/css&quot;&gt;
+
+td{width:20rem;
+font-size:0.7rem;
+white-space: nowrap; 
+text-overflow: ellipsis; 
+overflow: hidden; 
+}
+&lt;/style&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">资料获取文献检索及引用格式</title><link href="/post/2019-10-19-fst.html" rel="alternate" type="text/html" title="资料获取文献检索及引用格式" /><published>2019-10-19T01:01:12+08:00</published><updated>2019-10-19T01:01:12+08:00</updated><id>/post/fst</id><content type="html" xml:base="/post/2019-10-19-fst.html">&lt;style type=&quot;text/css&quot;&gt;
+
+
+&lt;/style&gt;
+
+&lt;div class=&quot;abstract&quot;&gt;
+  &lt;p style=&quot;text-indent: 0&quot;&gt;&lt;strong&gt;说在前面的话&lt;/strong&gt; :CUPT的奖杯只能被强者拥有。所以如果不能卫冕，得到手里的奖杯依然要易主。每年国赛前，前一年的冠军队伍都要把奖杯归还给主办方。
+普通人用奖杯来证明自己的实力，强者却会被奖杯用来证明自己的含金量。所以如果有队伍能在CUPT中连赢三届，那么他就是真正的强者，奖杯永远不必归还。
+在CUPT的十年历史里，没有哪一支队伍获得过三连冠。而曾经最接近这个标准的，是哈工大。2015年国赛，我校一举夺魁，成为CUPT历史上首支蝉联冠军的队伍。
+2016年，我校以5轮全胜，总分第一的成绩进入决赛，但惜败于南开获第二名。但接下来我校重振旗鼓，2018年，我校再次蝉联冠军，成为CUPT历史上获得冠军次数最多的队伍。在刚刚过去的2019年，正值哈工大物理学院元年，CUPT十周年，我校代表队一鼓作气，锐不可当，再度以五轮全胜，总分第一杀入决赛，在决赛场上&lt;del&gt;熟练地&lt;/del&gt;铩羽而归随便清空连胜记录~~🙃——以0.2分之差憾负于复旦，仅获第二名，三连冠梦碎。&lt;/p&gt;
+
+  &lt;p&gt;哈工大参加CUPT，唯一的目标就是夺冠，哈工大的野心，只能是连胜$n$年$(n\geq3)$。作为2019CUPT国赛的参与者(非正式队员)，我是这样想的，我相信其他人也是这样想的。虽然是特等奖，但没得冠军就是输了。为了弥补遗憾，我们希望在接下来的日子里能更地多发挥一些光和热，尽可能让学弟学妹们站在一个高一点的起点。所以就有了这个东西。目前计划是从文献检索讲起，后续内容还可能涉及数值模拟、实验数据分析和处理、绘图技巧与规范等在CUPT中十分重要的技巧。每篇文章尽量追求规范，全面且实用。第一篇文章筹备至今也有两周的时间，但仍显仓促和简陋，还请包涵。&lt;/p&gt;
+
+  &lt;p&gt;愿明年的国赛上，我们的参赛队伍能“奋六世之余烈”，“扫六合、平八荒”，以第一名的成绩为工大的百年校庆献礼，也希望在下一个三年里，我校能实现三连冠的成就，让CUPT的奖杯永远留在工大。&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#i--cupt资料收集简介&quot; id=&quot;markdown-toc-i--cupt资料收集简介&quot;&gt;I.  CUPT资料收集简介&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ii--文献有关概念&quot; id=&quot;markdown-toc-ii--文献有关概念&quot;&gt;II.  文献有关概念&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#iii--常用文献检索工具&quot; id=&quot;markdown-toc-iii--常用文献检索工具&quot;&gt;III.  常用文献检索工具&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#a--wos核心合集&quot; id=&quot;markdown-toc-a--wos核心合集&quot;&gt;A.  WOS核心合集&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#b--springer-materials&quot; id=&quot;markdown-toc-b--springer-materials&quot;&gt;B.  Springer Materials&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#iv--检索式&quot; id=&quot;markdown-toc-iv--检索式&quot;&gt;IV.  检索式&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#v--全文获取途径&quot; id=&quot;markdown-toc-v--全文获取途径&quot;&gt;V.  全文获取途径&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vi-引文分析及及文献管理软件列举&quot; id=&quot;markdown-toc-vi-引文分析及及文献管理软件列举&quot;&gt;VI. 引文分析及及文献管理软件列举&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vii--总结&quot; id=&quot;markdown-toc-vii--总结&quot;&gt;VII.  总结&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#附录1文献类型和标识代码&quot; id=&quot;markdown-toc-附录1文献类型和标识代码&quot;&gt;附录1.文献类型和标识代码&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#参考文献&quot; id=&quot;markdown-toc-参考文献&quot;&gt;参考文献&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;i--cupt资料收集简介&quot;&gt;I.  CUPT资料收集简介&lt;/h2&gt;
+
+&lt;p&gt;在我们进行CUPT的学习和研究中，往往需要收集各类的资料用以支持，包括但不限于相关论文，相关实验数据(如某种物质的折射率、磁化曲线)，相关方向的参考书籍(如传热学、声学、流体力学等)。一切对资料的收集建立应当是建立在对题目的正确理解上。CUPT题目&lt;a href=&quot;//iypt.org/wp-content/uploads/2019/07/IYPT_2020_Problems.pdf&quot;&gt;&lt;u&gt;the official and signed pdf&lt;/u&gt;&lt;/a&gt;来源于IYPT，所以在英文搜索引擎上对“IYPT”进行检索，可以查找到其他人对这些题目的理解供参考。国内有一个公众号提供了中文翻译&lt;a href=&quot;//mp.weixin.qq.com/s/ErhXk2PbE2EM3d1n6FQ0qA&quot; target=&quot;_blank&quot;&gt;IYPT2020中英文版赛题及图解&lt;/a&gt;可供参考，最终理解仍应以&lt;strong&gt;英文题目&lt;/strong&gt;为准。&lt;/p&gt;
+
+&lt;p&gt;本文主要介绍对论文资源的检索获得与利用。&lt;/p&gt;
+
+&lt;h2 id=&quot;ii--文献有关概念&quot;&gt;II.  文献有关概念&lt;/h2&gt;
+
+&lt;p&gt;文献分为图书，期刊，学位论文，会议和标准。期刊论文又通常分为&lt;em&gt;Original Research, Review Articles, Short reports or Letters, Case Studies, Methodologies&lt;/em&gt;等&lt;sup&gt;&lt;a title=&quot;Springer.Types of journal articles[EB/OL].[2019-10-19].https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript/types-of-journal-articles/10285504&quot; href=&quot;#arttypes&quot; id=&quot;ref-arttypes&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;“Original Research”是最常见也是CUPT中使用最多的文献的内容,介绍如下&lt;sup&gt;&lt;a title=&quot;Springer.Types of journal articles[EB/OL].[2019-10-19].https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript/types-of-journal-articles/10285504&quot; href=&quot;#arttypes&quot; id=&quot;ref-arttypes&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is the most common type of journal manuscript used to publish full reports of data from research. It may be called an Original Article, Research Article, Research, or just Article, depending on the journal. The Original Research format is suitable for many different fields and different types of studies. It includes full Introduction, Methods, Results, and Discussion sections.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Letters”通常较简短，在CUPT的研究学习中此类文献不太常用。而”Review Articles”提供某一个领域现状和发展的全面摘要&lt;sup&gt;&lt;a title=&quot;Springer.Types of journal articles[EB/OL].[2019-10-19].https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript/types-of-journal-articles/10285504&quot; href=&quot;#arttypes&quot; id=&quot;ref-arttypes&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;，在阅读”Original Research”类文献前，可以先读一篇或几篇综述(Review)。综述类文献的介绍如下&lt;sup&gt;&lt;a title=&quot;Springer.Types of journal articles[EB/OL].[2019-10-19].https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript/types-of-journal-articles/10285504&quot; href=&quot;#arttypes&quot; id=&quot;ref-arttypes&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Review Articles provide a comprehensive summary of research on a certain topic, and a perspective on the state of the field and where it is heading. They are often written by leaders in a particular discipline after invitation from the editors of a journal. Reviews are often widely read (for example, by researchers looking for a full introduction to a field) and highly cited. Reviews commonly cite approximately 100 primary research articles.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;当找到一篇合适文献后，就可以在它所引用的参考文献中进一步查找到自己所需的文献。参考文献的格式有多种，&lt;a href=&quot;#figcite&quot;&gt;图.1&lt;/a&gt;为必应学术给出的同一篇论文&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;的三种引用格式。每种格式有所不同，但大体相似。当在自己PPT后插入参考文献时，尤其要注意不同参考文献的格式不能混用。其中GB/T 7714&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;为我国的推荐性国家标准，以下是GB/T 7714-2015中规定的部分类型的参考文献的著录格式&lt;sup&gt;&lt;a title=&quot;全国信息与文献标准化技术委员会.信息与文献　参考文献著录规则:GB/T 7714-2015[S/OL].http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCSF&amp;amp;dbname=SCSF&amp;amp;filename=SCSF00045714.&quot; href=&quot;#GBT7714&quot; id=&quot;ref-GBT7714&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;专著:
+  主要责任者.题名:其他题名信息[文献类型标识/文献载体标识].其他责任者.版本项.出版地:出版者,出版年:引文信息[引用日期].获取和访问路径.数字对象唯一标识符.
+专著中析出文献:
+  析出文献主要责任者.析出文献题名[文献类型标识/文献载体标识].析出文献其他责任者//专著主要责任者.专著题名:其他题名信息.版本项.出版地:出版者,出版年:析出文献的页码[引用日期],获取和访问路径.数字对象唯一标识符.
+连续出版物中析出的文献:
+  析出文献主要责任者.析出文献题名[文献类型标识/文献载体标识].连续出版物题名:其他题名信息,年,卷(期):页码[引用日期].获取和访问路径.数字对象唯一标识符.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;与&lt;a href=&quot;#figcite&quot;&gt;图.1&lt;/a&gt;中对应的就应是&lt;code class=&quot;highlighter-rouge&quot;&gt;析出文献主要责任者.析出文献题名[文献类型标识].连续出版物题名,年,卷(期):页码.&lt;/code&gt;。不同参考文献引用格式不同，但一般都能获得文献题名，出版物名（或缩写），作者名缩写等关键信息。但在进行文献检索时，最好使用作者全名。对于给出的期刊名缩写，可在&lt;a href=&quot;http://images.webofknowledge.com/images/help/WOS/A_abrvjt.html&quot; style=&quot;word-break: break-all&quot;&gt;http://images.webofknowledge.com/images/help/WOS/A_abrvjt.html&lt;/a&gt;上查找到它对应的全名。&lt;/p&gt;
+
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;figcite&quot; class=&quot;illu&quot; id=&quot;figcite&quot; src=&quot;/img/20191019/citetype.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图1.bing学术上给出的三种参考文献格式&lt;/figca&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;iii--常用文献检索工具&quot;&gt;III.  常用文献检索工具&lt;/h2&gt;
+
+&lt;p&gt;本文这里介绍的检索工具均为免费或&lt;a href=&quot;//www.lib.hit.edu.cn&quot; target=&quot;_blank&quot;&gt;哈工大图书馆&lt;/a&gt;已购买&lt;sup&gt;&lt;a title=&quot;University of Pittsburgh.Citation Styles: APA, MLA, Chicago, Turabian, IEEE: Home[EB/OL].[2019-10-19].https://pitt.libguides.com/citationhelp.&quot; href=&quot;#CitationStyles&quot; id=&quot;ref-CitationStyles&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt;，故可以在校园网条件下直接访问。&lt;a href=&quot;//www.lib.hit.edu.cn/databasenav&quot; target=&quot;_blank&quot;&gt;点击这里&lt;/a&gt;可查看哈工大图书馆已购数据库，并提供数据库的简介和入口。&lt;/p&gt;
+
+&lt;p&gt;用于文献检索的数据库一般可以按类型分为文摘数据库/引文数据库(Abstract database/Bibliographic databases)，全文数据库(Full-text database)和数值型数据库(numeric )等。前者的特征是往往提供的检索手段较多，包含的文献种类丰富，检索得到的结果更多更全面，但是不提供全文数据，SCI(科学引文索引)、EI(工程索引)等就属于此类数据库，百度学术，谷歌学术等发挥的功能也类似于此种数据库。全文数据库提供全文数据，但包括的文献种类和数目往往较少。中国知网、万方属于后者。一般我们可以在引文数据库中根据需求检索到具体的论文，再从全文数据库中获取到全文数据。具体的全文获取方法将在&lt;a href=&quot;#5st&quot;&gt;V节&lt;/a&gt;中介绍。&lt;/p&gt;
+
+&lt;p&gt;常见的文献检索列举如下:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;检索工具&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;简称&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;收录文献类型&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//www.nstl.gov.cn/index.html&quot; title=&quot;国家科技图书文献中心&quot; target=&quot;_blank&quot;&gt;国家科技图书文献中心&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;NSTL&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;学术期刊、学术会议、科技报告、科技文献专著、学位论文、标准、计量规程、专利文献&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&amp;amp;search_mode=GeneralSearch&quot; title=&quot;Web of Science核心合集&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Web of Science核心合集&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;WOS&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;学术期刊、书籍、会议报告&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//www.elsevier.com/solutions/engineering-village/content&quot; title=&quot;Engineering Village&quot; target=&quot;_blank&quot;&gt;Engineering Village&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;EI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;学术期刊、专利、标准、书籍、学位论文(工程学)、会议论文&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//www.sciencedirect.com/&quot; title=&quot;Science Direct&quot; target=&quot;_blank&quot;&gt;Science Direct&lt;/a&gt;&lt;sub style=&quot;font-weight:bold&quot;&gt;†&lt;/sub&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;期刊、会议论文、书籍&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//materials.springer.com/&quot; title=&quot;Springer LINK&quot; target=&quot;_blank&quot;&gt;Springer Materials&lt;/a&gt;&lt;sub style=&quot;font-weight:bold&quot;&gt;†&lt;/sub&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;材料学、工程学数据&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//www.cnki.net/&quot; title=&quot;中国知网&quot; target=&quot;_blank&quot;&gt;中国知网&lt;/a&gt;&lt;sub style=&quot;font-weight:bold&quot;&gt;†&lt;/sub&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;CNKI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;全文、期刊、会议、学位论文、报纸、图书、成果、专利、标准、年鉴、词典、统计数据、指数、政府公报&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//www.wanfangdata.com.cn&quot; title=&quot;万方&quot; target=&quot;_blank&quot;&gt;万方&lt;/a&gt;&lt;sub&gt;†&lt;/sub&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;学位、会议、专利、期刊、科技报告、法规、标准&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//xueshu.baidu.com/&quot; title=&quot;百度学术&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;百度学术&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;期刊、学位论文、书籍&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;strong&gt;谷歌学术&lt;/strong&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;期刊、学位论文、书籍&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//cn.bing.com/academic/&quot; title=&quot;必应学术&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;必应学术&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;期刊、学位论文、书籍&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;//www.blyun.com/&quot; title=&quot;百链云&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;百链云&lt;/strong&gt;&lt;/a&gt;&lt;sub&gt;†&lt;/sub&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;图书、期刊、报纸、学位论文、会议论文、专利、标准&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p class=&quot;figca&quot;&gt;常用检索工具总览&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;,&lt;/sup&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;在上述介绍的检索工具中，我们对其中两个进行简单介绍。&lt;/p&gt;
+
+&lt;!-- |[IEEE](//ieeexplore.ieee.org/ &quot;IEEE&quot;){: target=&quot;_blank&quot;}&lt;sub&gt;†&lt;/sub&gt;||期刊、论文、标准、书籍| --&gt;
+&lt;!-- |[SCOPUS](https://www.scopus.com &quot;SCOPUS&quot;){: target=&quot;_blank&quot;}&lt;sub style=&quot;font-weight:bold&quot;&gt;†&lt;/sub&gt;||文献、期刊、会议、书籍、报告、数据、专利| --&gt;
+
+&lt;h3 id=&quot;a--wos核心合集&quot;&gt;A.  WOS核心合集&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;//apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&amp;amp;search_mode=GeneralSearch&quot; title=&quot;WOS核心合集&quot;&gt;WOS核心合集&lt;/a&gt;是世界领先的引文数据库。其中包含来自全球&lt;strong&gt;最有影响力&lt;/strong&gt;的期刊（包括开放访问的期刊）以及会议录文献和书籍的论文记录。部分标题的覆盖范围可追溯到 1900 年&lt;sup&gt;&lt;a title=&quot;Web of Science. Web of Science help[EB/OL].[2019-10-19].http://images.webofknowledge.com//WOKRS533SR6ALERTMTN/help/WOS/hp_search.html. &quot; href=&quot;#woshelp&quot; id=&quot;ref-woshelp&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt;。属于高水平学术水平检索工具。包括了科学引文索引(Science Citation Index, SCI)，社会科学引文索引(Social Sciences Citation Index, SSCI)，人文与艺术引文索引(Arts &amp;amp; Humanities Citation Index, A&amp;amp;HCI)和会议文献引文索引(Conference Proceedings Citation Index, CPCI)四个高水平学术文献子库。其中最重要当然也是对我们最有用的就是SCI。&lt;a href=&quot;#woshome&quot;&gt;图.2&lt;/a&gt;就是WOS核心合集的基本检索页面，可以看到可以对文献子库&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;、时间跨度&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;、检索字段进行设置。&lt;/p&gt;
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;woshome&quot; class=&quot;illu&quot; id=&quot;woshome&quot; src=&quot;/img/20191019/woshome.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图2.WOS核心合集的基本检索页面&lt;/figca&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;b--springer-materials&quot;&gt;B.  Springer Materials&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;//materials.springer.com/&quot; title=&quot;Springer Materials&quot;&gt;Springer Materials&lt;/a&gt;&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;以Landolt-Börnstein丛书为基础，选择8000多种同行评审期刊经过评估和筛选后的有效信息，内容覆盖250,000种材料和化学体系的3,000余种性质，自1883年&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;至今物理学科和工程学科的数值数据、函数关系、常用单位以及基本常数等，是一个独一无二的高质量数值型数据库&lt;sup&gt;&lt;a title=&quot;中国科学技术大学图书馆.SpringerMaterials[EB/OL].[2019-10-19].http://lib.ustc.edu.cn/%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90/database/1-%E6%96%87%E6%91%98%E7%B4%A2%E5%BC%95%E6%95%B0%E6%8D%AE%E5%BA%93/springermaterials/.&quot; href=&quot;#springerm&quot; id=&quot;ref-springerm&quot;&gt;[5]&lt;/a&gt;,&lt;a title=&quot;哈尔滨工业大学图书馆.Springer Materials数据库[EB/OL].[2019-10-19].http://www.lib.hit.edu.cn/node/239.&quot; href=&quot;#springerh&quot; id=&quot;ref-springerh&quot;&gt;[6]&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;今年CUPT的某些题目如第4题(Singing Ferrite)，第16题(Nitinol Engine)等，可能就需要一些物质属性的数据来支持。相信Springer Materials数据库可以派上一些用场。&lt;/p&gt;
+
+&lt;p&gt;Springer Materials支持通过组成元素及通过化学结构式进行检索，如&lt;a href=&quot;#elems&quot;&gt;图.3&lt;/a&gt;为查找镍锌铁氧体的有关数据，在元素中选择Ni、Zn、Fe、O四种元素，可见查到了103篇关于镍锌铁氧体的数据论文(&lt;a href=&quot;#result&quot;&gt;图.4&lt;/a&gt;)。其结果包括了热容量、压缩性、杨氏模量及其中的声速等。&lt;/p&gt;
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;elems&quot; class=&quot;illu&quot; id=&quot;elems&quot; src=&quot;/img/20191019/elems.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图3.使用按元素检索选中Ni、Zn、Fe、O四种元素&lt;/figca&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;result&quot; class=&quot;illu&quot; id=&quot;result&quot; src=&quot;/img/20191019/result.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图4.镍锌铁氧体的检索结果&lt;/figca&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;iv--检索式&quot;&gt;IV.  检索式&lt;/h2&gt;
+
+&lt;p&gt;由于不同检索工具所使用的检索式语法不完全相同，所以这里我们以WOS核心合集为例，简单介绍常用的检索式规则&lt;sup&gt;&lt;a title=&quot;Web of Science. 高级检索式编辑示例[EB/OL].[2019-10-19].http://images.webofknowledge.com//WOKRS533SR6ALERTMTN/help/zh_CN/WOS/hp_advanced_examples.html.&quot; href=&quot;#wosadv&quot; id=&quot;ref-wosadv&quot;&gt;[7]&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;WOS支持&lt;code class=&quot;highlighter-rouge&quot;&gt;AND&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;OR&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;NOT&lt;/code&gt;三个逻辑运算符，另外常用的一个检索运算为&lt;code class=&quot;highlighter-rouge&quot;&gt;NEAR/x&lt;/code&gt;，意为用它连接的前后两个词距离不超过&lt;code class=&quot;highlighter-rouge&quot;&gt;x&lt;/code&gt;个词。若&lt;code class=&quot;highlighter-rouge&quot;&gt;/x&lt;/code&gt;省略则默认为15词。此外还可以使用括号&lt;code class=&quot;highlighter-rouge&quot;&gt;()&lt;/code&gt;改变运算的优先级。除运算符外，检索式中还要使用到通配符。WOS支持的通配符有三种，&lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;匹配任意字符组，包括空格，&lt;code class=&quot;highlighter-rouge&quot;&gt;?&lt;/code&gt;匹配任意单个字符，&lt;code class=&quot;highlighter-rouge&quot;&gt;$&lt;/code&gt;匹配零或一个字符。这里直接借用官方给出的例子&lt;sup&gt;&lt;a title=&quot;Web of Science. 通配符[EB/OL].[2019-10-19].http://images.webofknowledge.com//WOKRS533SR6ALERTMTN/help/zh_CN/WOS/hs_wildcards.html&quot; href=&quot;#wostpf&quot; id=&quot;ref-wostpf&quot;&gt;[8]&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;p&gt;s*food 可查找：
+seafood
+soyfood&lt;/p&gt;
+
+  &lt;p&gt;enzym* 可查找：
+enzyme
+enzymes
+enzymatic
+enzymic&lt;/p&gt;
+
+  &lt;p&gt;Hof&lt;em&gt;man&lt;/em&gt; 可查找：
+Hofman
+Hofmann
+Hoffman
+Hoffmann&lt;/p&gt;
+
+  &lt;p&gt;wom?n 可查找：
+woman
+women&lt;/p&gt;
+
+  &lt;p&gt;colo$r 可查找：
+color
+colour&lt;/p&gt;
+
+  &lt;p&gt;grain$ 可查找：
+grain
+grains&lt;/p&gt;
+
+  &lt;p&gt;多通配符示例
+organi?ation* 可查找：
+organisation
+organisations
+organisational
+organization
+organizations
+organizational&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;不同的字段用&lt;code class=&quot;highlighter-rouge&quot;&gt;字段=&lt;/code&gt;的方式给出，彼此间使用逻辑运算符进行连接。不同字段的名称及具体描述，在&lt;a href=&quot;#gjjsym&quot;&gt;图.5&lt;/a&gt;所示页面右侧可以查看。&lt;/p&gt;
+
+&lt;p&gt;编写检索式后进行在数据库查找，并不断根据结果对检索式进行优化，剔除不需要的结果，最终会得出一个较精确的范围。&lt;a href=&quot;#gjjsym&quot;&gt;图.5&lt;/a&gt;为WOS的高级检索页面&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;，在此你可以编写自己的检索式。&lt;a href=&quot;#jsjgrk&quot;&gt;图.6&lt;/a&gt;为检索历史，从这里可以查看检索的结果，并可以在以前检索式的基础上进行编辑重新搜索。默认的结果是按时间排序的，可以手动修改为按相关性排序以利于查看。检索结果可以进行导出，用来进行&lt;a href=&quot;#引文分析&quot;&gt;引文分析&lt;/a&gt;。&lt;/p&gt;
+
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;gjjsym&quot; class=&quot;illu&quot; id=&quot;gjjsym&quot; src=&quot;/img/20191019/gjjsym.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图5.WOS核心合集的高级检索页面&lt;/figca&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;jsjgrk&quot; class=&quot;illu&quot; id=&quot;jsjgrk&quot; src=&quot;/img/20191019/jsjgrk.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图6.检索结果的入口&lt;/figca&gt;&lt;/figure&gt;
+
+&lt;p&gt;在编写检索式前，需要对将要检索的关键词有一个大概的了解，熟悉专业术语对应的英文词组及一个说法在英文论文中常见的不同表述式有必要的。这里可以使用&lt;a href=&quot;http://dict.cnki.net/&quot;&gt;CNKI助手&lt;/a&gt;查找中文对应的英文表述方法(反过来也可以用于英语学术词汇的翻译)。例如&lt;a href=&quot;#cnkivu&quot;&gt;图.7&lt;/a&gt;为CNKI助手给出的“密度分布”对应的不同翻译。根据这些就可以编写更合适的检索式。例如&lt;code class=&quot;highlighter-rouge&quot;&gt;(density OR intensity) NEAR/2 (distributi* OR profile$)&lt;/code&gt;可以适配给出的所有“密度分布”的表达方式(去除了”density variations”及”observed density”两个并不合适的表述)。&lt;/p&gt;
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;cnkivu&quot; class=&quot;illu&quot; id=&quot;cnkivu&quot; src=&quot;/img/20191019/cnkivu.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图7.CNKI助手搜索密度分布所得到的结果&lt;/figca&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;v--全文获取途径&quot;&gt;V. &lt;a href=&quot;5st&quot;&gt;&lt;/a&gt; 全文获取途径&lt;/h2&gt;
+
+&lt;p&gt;常规的全文获取途径主要有：1.在学术搜索引擎或引文数据库检索到文献并中通过其提供的全文数据库链接直接访问。2.已知期刊名时通过期刊名定位数据库。在&lt;a href=&quot;//eds.b.ebscohost.com/eds/search/basic?sid=06392810-c3dd-4cb1-930f-d5d46d270db8@sessionmgr102&amp;amp;vid=0&amp;amp;tid=3000EP&amp;amp;sdb=edspub&quot;&gt;电子期刊导航&lt;/a&gt;中输入期刊名，就可检索到收录该期刊的全文数据库。3.通过国家科技图书文献中心、哈工大图书馆、百链云等平台的全文传递服务（一般为收费服务项目）4.向文献作者或引用该文献的其他文献作者发邮件求助。&lt;/p&gt;
+
+&lt;p&gt;往往有很多资源所在的数据库时学校没有购买的，对于这些文献的获取，可以借助&lt;a href=&quot;/tools/2019-10-23-useurls.html&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;这个很丑的导航页面&lt;/em&gt;&lt;/a&gt;中收录的一些免费学术资源网站进行获取。可以说这些网站的资源非常全面。介绍其中一个网站Sci-Hub的使用方法。在学术搜索引擎或引文数据库中查找到一篇文献后，同时会提供它的数字对象唯一标识符(DOI)，将这串文本复制到Sci-Hub的检索框中，点击open多数情况下就可以直接获取到全文资源。&lt;/p&gt;
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;bddoi&quot; class=&quot;illu&quot; id=&quot;bddoi&quot; src=&quot;/img/20191019/bddoi.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图8.百度学术上给出的DOI&lt;/figca&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;vi-引文分析及及文献管理软件列举&quot;&gt;VI. &lt;a href=&quot;#引文分析&quot;&gt;&lt;/a&gt;引文分析及及文献管理软件列举&lt;/h2&gt;
+
+&lt;p&gt;本部分不做详细阐述，请感兴趣的读者自行了解。&lt;/p&gt;
+
+&lt;p&gt;引文分析软件可以帮助分析一个主题的研究历史，主要的研究方向，重要的论文和研究者等。这类软件有CiteNetExploer，HistCite，CiteSpace等。&lt;a href=&quot;https://www.citnetexplorer.nl/&quot; title=&quot;CitNetExplorer - Analyzing citation patterns in scientific literature&quot;&gt;CitNetExplorer - Analyzing citation patterns in scientific literature&lt;/a&gt;和[CiteSpace: http://cluster.cis.drexel.edu/~cchen/citespace/ “CiteSpace: Visualizing Patterns and Trends in Scientific Literature”)为免费软件，HistCite原本为付费软件，但因长时间不更新已经无法使用，现在可用的版本为&lt;a href=&quot;https://zhuanlan.zhihu.com/p/20902898&quot; title=&quot;文献引文分析利器 HistCite 详细使用教程暨 HistCite Pro 首发页面&quot;&gt;文献引文分析利器 HistCite 详细使用教程暨 HistCite Pro 首发页面&lt;/a&gt;国内有人做出的修改版。由于其网页中都有详细的使用介绍，此处就不赘述了。三个软件各有千秋，如果对引文分析感兴趣可以进行尝试。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#histcite&quot;&gt;图.9&lt;/a&gt;为HistCite对某领域下多篇文献的引用分析，从图中很容易可以看出几篇最重要的文献及文献间的引用关系。&lt;/p&gt;
+&lt;figure class=&quot;fig&quot;&gt;&lt;img name=&quot;histcite&quot; class=&quot;illu&quot; id=&quot;histcite&quot; src=&quot;/img/20191019/histcite.jpg&quot; onclick=&quot;$(this).toggleClass('dbig')&quot; /&gt;&lt;figca&gt;图9.HistCite对WOS核心数据库某一检索式下所有文献的引用分析结果&lt;/figca&gt;&lt;/figure&gt;
+
+&lt;p&gt;至于文献管理软件常见的有&lt;a href=&quot;https://access.clarivate.com/login?app=endnote EndNote&quot;&gt;EndNote&lt;/a&gt;与WOS同属Clarivate Analytics公司旗下的产品，是主流的文献管理软件，付费。&lt;a href=&quot;http://www.lib.hit.edu.cn/node/258&quot;&gt;NoteExpress&lt;/a&gt;为国内的文献管理软件，哈工大已购。&lt;a href=&quot;//www.mendeley.com&quot; title=&quot;Mendeley - Reference Management Software &amp;amp; Researcher Network&quot;&gt;Mendeley&lt;/a&gt;是Elsevier公司&lt;sup id=&quot;fnref:els&quot;&gt;&lt;a href=&quot;#fn:els&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;旗下的一款免费产品。此外还有&lt;a href=&quot;https://www.softhead-citavi.com/&quot;&gt;Citavi&lt;/a&gt;、&lt;a href=&quot;https://www.zotero.org/&quot;&gt;Zotero&lt;/a&gt;等完全免费或者提供全功能免费版本的软件可供选择。这部分仅做介绍不进行推荐。&lt;/p&gt;
+
+&lt;h2 id=&quot;vii--总结&quot;&gt;VII.  总结&lt;/h2&gt;
+
+&lt;p&gt;本文主要从期刊文献的查找方面介绍了进行CUPT竞赛时可能用到的资料收集工具与技巧。建议对于课题的调研最好遵循先浏览中文论文，再浏览英文论文。先阅读综述类文献，再阅读原始研究类的文献。读论文时先读摘要，再选读全文。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;同学们有任何问题都可以随时在群里与我们讨论，最后祝愿大家在竞赛中都能取得好成绩😉&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;附录1文献类型和标识代码&quot;&gt;附录1.文献类型和标识代码&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;参考文献类型&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;文献类型标识代码&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;普通图书&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;M&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;会议录&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;C&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;汇编&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;G&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;报纸&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;期刊&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;J&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;学位论文&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;D&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;报告&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;R&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;标准&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;S&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;专利&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;P&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;数据库&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;DB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;计算机程序&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;CP&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;电子公告&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;EB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;档案&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;A&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;舆图&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;CM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;数据集&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;DS&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;其他&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Z&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;参考文献&quot;&gt;参考文献&lt;/h2&gt;
+&lt;div class=&quot;bib&quot;&gt;
+&lt;ol class=&quot;a-ref&quot;&gt;&lt;li id=&quot;arttypes&quot; name=&quot;arttypes&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;1.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-1&quot;&gt;Springer.Types of journal articles[EB/OL].[2019-10-19].https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript/types-of-journal-articles/10285504&lt;/p&gt;&lt;/li&gt;&lt;li id=&quot;GBT7714&quot; name=&quot;GBT7714&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;2.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-2&quot;&gt;全国信息与文献标准化技术委员会.信息与文献　参考文献著录规则:GB/T 7714-2015[S/OL].http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCSF&amp;amp;dbname=SCSF&amp;amp;filename=SCSF00045714.&lt;/p&gt;&lt;ul class=&quot;ref-link-u&quot;&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; id=&quot;link-GBT7714&quot; class=&quot;ref-link-l&quot; href=&quot;//dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCSF&amp;amp;dbname=SCSF&amp;amp;filename=SCSF00045714&quot;&gt;获取&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;CitationStyles&quot; name=&quot;CitationStyles&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;3.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-3&quot;&gt;University of Pittsburgh.Citation Styles: APA, MLA, Chicago, Turabian, IEEE: Home[EB/OL].[2019-10-19].https://pitt.libguides.com/citationhelp.&lt;/p&gt;&lt;/li&gt;&lt;li id=&quot;woshelp&quot; name=&quot;woshelp&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;4.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-4&quot;&gt;Web of Science. Web of Science help[EB/OL].[2019-10-19].http://images.webofknowledge.com//WOKRS533SR6ALERTMTN/help/WOS/hp_search.html. &lt;/p&gt;&lt;/li&gt;&lt;li id=&quot;springerm&quot; name=&quot;springerm&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;5.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-5&quot;&gt;中国科学技术大学图书馆.SpringerMaterials[EB/OL].[2019-10-19].http://lib.ustc.edu.cn/%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90/database/1-%E6%96%87%E6%91%98%E7%B4%A2%E5%BC%95%E6%95%B0%E6%8D%AE%E5%BA%93/springermaterials/.&lt;/p&gt;&lt;/li&gt;&lt;li id=&quot;springerh&quot; name=&quot;springerh&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;6.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-6&quot;&gt;哈尔滨工业大学图书馆.Springer Materials数据库[EB/OL].[2019-10-19].http://www.lib.hit.edu.cn/node/239.&lt;/p&gt;&lt;/li&gt;&lt;li id=&quot;wosadv&quot; name=&quot;wosadv&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;7.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-7&quot;&gt;Web of Science. 高级检索式编辑示例[EB/OL].[2019-10-19].http://images.webofknowledge.com//WOKRS533SR6ALERTMTN/help/zh_CN/WOS/hp_advanced_examples.html.&lt;/p&gt;&lt;/li&gt;&lt;li id=&quot;wostpf&quot; name=&quot;wostpf&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;8.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-8&quot;&gt;Web of Science. 通配符[EB/OL].[2019-10-19].http://images.webofknowledge.com//WOKRS533SR6ALERTMTN/help/zh_CN/WOS/hs_wildcards.html&lt;/p&gt;&lt;/li&gt;&lt;li id=&quot;scopus&quot; name=&quot;scopus&quot; class=&quot;ref-li&quot;&gt;&lt;span class=&quot;ref-count&quot;&gt;9.&lt;/span&gt;&lt;p class=&quot;ref-text&quot; id=&quot;ref-9&quot;&gt;中国科学技术大学图书馆.SCOPUS[EB/OL].[2019-10-19].http://lib.ustc.edu.cn/%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90/database/1-%E6%96%87%E6%91%98%E7%B4%A2%E5%BC%95%E6%95%B0%E6%8D%AE%E5%BA%93/scopus/.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;这是本次CUPT第16题的一篇参考文献。 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;即《信息与文献 参考文献著录规则》，可在&lt;a href=&quot;http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCSF&amp;amp;dbname=SCSF&amp;amp;filename=SCSF00045714&quot;&gt;http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=SCSF&amp;amp;dbname=SCSF&amp;amp;filename=SCSF00045714&lt;/a&gt;获取。 &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;可以在&lt;a href=&quot;/tools/2019-10-23-useurls.html&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;这个很丑的导航页面&lt;/em&gt;&lt;/a&gt;中选择一个稳定的谷歌学术镜像访问。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;推荐在CUPT中使用的常用检索工具被加粗显示。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;加有†下标的表示可以获取全文数据库。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;此处的SCI-EXPANDED(SCIE)严格来讲并不同于SCI，但&lt;del&gt;我说不清有什么区别&lt;/del&gt;与本文主体内容无关，故不做区分。 &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;小八卦——此处的时间跨度最早只能选到1985年并不是因为SCI只回溯到1985年，而是因为我们学校只购买到了1985年&lt;del&gt;(可能因为咱是985高校吧)&lt;/del&gt;。 &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.lib.hit.edu.cn/databasenav&quot;&gt;本校图书馆导航页&lt;/a&gt;给出的Springer Materials数据库链接指向的是SpringerLink，而非Springer Materials，(两者是隶属同一集团的不同数据库)可能造成误导。请使用本文给出的链接直接进入Springer Materials数据库。 &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;我校仅购买到1997年。 &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;图中的检索式仅演示用，不建议作为参考。 &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:els&quot;&gt;
+      &lt;p&gt;该公司旗下还有Scopus和ScienceDirect两个有名的数据库，其中Scopus号称全球规模最大，最为全面的文摘和引文数据库&lt;sup&gt;&lt;a title=&quot;中国科学技术大学图书馆.SCOPUS[EB/OL].[2019-10-19].http://lib.ustc.edu.cn/%E7%94%B5%E5%AD%90%E8%B5%84%E6%BA%90/database/1-%E6%96%87%E6%91%98%E7%B4%A2%E5%BC%95%E6%95%B0%E6%8D%AE%E5%BA%93/scopus/.&quot; href=&quot;#scopus&quot; id=&quot;ref-scopus&quot;&gt;[9]&lt;/a&gt;&lt;/sup&gt;。不过因本校图书馆未购故没有介绍。 &lt;a href=&quot;#fnref:els&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>王咏歌</name></author><summary type="html"></summary></entry></feed>
