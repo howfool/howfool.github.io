@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>My first Three.js app</title>
+		<style>
+			body { margin: 0; }
+			canvas { width: 100%; height: 100% }
+		</style>
+	</head>
+	<body>
+		<script src="js/three.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/OrbitControls.js"></script>
+    
+<table>
+<tr><td>请选择封装</td> <td><select id = "package" size = "1" onchange=setValue(this.options[this.options.selectedIndex].value)>
+<option id ="pa1" value="0075">0075</option>
+<option id ="pa2" value="0100">0100</option>
+<option id ="pa3" value="0201">0201</option>
+<option id ="pa4" value="0402">0402</option>
+<option id ="pa5" value="0603">0603</option>
+<option id ="pa6" value="0805">0805</option>
+<option id ="pa7" value="1206">1206</option>
+<option id ="pa8" value="1210">1210</option>
+<option id ="pa9" value="1812">1812</option>
+<option id ="pa10" value="2010">2010</option>
+<option id ="pa11" value="2512">2512</option>
+<option id ="Pa12" value="selfDef">自定义</option>
+
+</select></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>L(mm)</td><td><input id="dL" type="text" name="dL" size="5" readonly="readonly" value = "0.30"></td>
+<td>W(mm)</td><td><input id="dW" type="text" name="dW" size="5" readonly="readonly" value = "0.15"></td>
+</tr>
+<tr><td>H(mm)</td><td><input id="dH" type="text" name="dH" size="5" readonly="readonly" value = "0.10"></td>
+<td>I<sub>1</sub>(mm)</td><td><input id="dI1" type="text" name="dI1" size="5" readonly="readonly" value = "0.08"></td>
+</tr>
+<tr><td>I<sub>2</sub>(mm)</td><td><input id="dI2" type="text" name="dI2" size="5" readonly="readonly" value = "0.08"></td>
+<td>面电极宽度*(mm)</td><td><input id="mdjkd" type="text" name="mdjkd" size="5"  value = "0.09"></td>
+</tr>
+<tr><td>面电极厚度*(μm)</td><td><input id="mdjhd" type="text" name="mdjhd" size="5"  value = "10"></td>
+<td>面电极长度*(mm)</td><td><input id="mdjcd" type="text" name="mdjcd" size="5"  value = "0.06"></td>
+</tr>
+<tr><td>电阻层宽度*(mm)</td><td><input id="dzckd" type="text" name="dzckd" size="5"  value = "0.12"></td>
+<td>电阻层厚度*(μm)</td><td><input id="dzchd" type="text" name="dzchd" size="5"  value = "12"></td>
+</tr>
+<tr><td>电阻层长度*(mm)</td><td><input id="dzccd" type="text" name="dzccd" size="5"  value = "0.126"></td>
+<td>端电极厚度*(μm)</td><td><input id="ddjhd" type="text" name="ddjhd" size="5"  value = "5"></td>
+</tr>
+<tr><td>背电极宽度*(mm)</td><td><input id="bdjkd" type="text" name="bdjkd" size="5"  value = "0.09"></td>
+<td>背电极厚度*(μm)</td><td><input id="bdjhd" type="text" name="bdjhd" size="5"  value = "5"></td>
+</tr>
+<tr><td>一次保护层厚度*(μm)</td><td><input id="ycbhchd" type="text" name="ycbhchd" size="5"  value = "1"></td>
+<td>二次保护层厚度*(μm)</td><td><input id="ecbhchd" type="text" name="ecbhchd" size="5"  value = "10"></td>
+</tr>
+<tr><td>镀层厚度*(μm)</td><td><input id="dchd" type="text" name="dchd" size="5"  value = "20"></td>
+<td style="text-align: center;"><button type="button" onclick="updateV()">确认</button></td>
+</tr>
+
+</table>
+<div id="pos"></div>
+<!--
+<table>
+<tr><td>请选择封装</td> <td><select id = "package" size = "1" onchange=setValue(this.options[this.options.selectedIndex].value)>
+<option id ="pa1" value="0075">0075</option>
+<option id ="pa2" value="0100">0100</option>
+<option id ="pa3" value="0201">0201</option>
+<option id ="pa4" value="0402">0402</option>
+<option id ="pa5" value="0603">0603</option>
+<option id ="pa6" value="0805">0805</option>
+<option id ="pa7" value="1206">1206</option>
+<option id ="pa8" value="1210">1210</option>
+<option id ="pa9" value="1218">1218</option>
+<option id ="pa10" value="2010">2010</option>
+<option id ="pa11" value="2512">2512</option>
+<option id ="Pa12" value="selfDef">自定义</option>
+
+</select></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>L(mm)</td><td><input id="dL" type="text" name="dL" size="5" readonly="readonly" value = "0.30"></td>
+<td>W(mm)</td><td><input id="dW" type="text" name="dW" size="5" readonly="readonly" value = "0.15"></td>
+</tr>
+<tr><td>H(mm)</td><td><input id="dH" type="text" name="dH" size="5" readonly="readonly" value = "0.10"></td>
+<td>I<sub>1</sub>(mm)</td><td><input id="dI1" type="text" name="dI1" size="5" readonly="readonly" value = "0.08"></td>
+</tr>
+<tr><td>I<sub>2</sub>(mm)</td><td><input id="dI2" type="text" name="dI2" size="5" readonly="readonly" value = "0.08"></td>
+<td>面电极宽度*(mm)</td><td><input id="mdjkd" type="text" name="mdjkd" size="5"  value = "0.09"></td>
+</tr>
+<tr><td>面电极厚度*(μm)</td><td><input id="mdjhd" type="text" name="mdjhd" size="5"  value = "10"></td>
+<td>面电极长度*(mm)</td><td><input id="mdjcd" type="text" name="mdjcd" size="5"  value = "0.06"></td>
+</tr>
+<tr><td>电阻层宽度*(mm)</td><td><input id="dzckd" type="text" name="dzckd" size="5"  value = "0.12"></td>
+<td>电阻层厚度*(μm)</td><td><input id="dzchd" type="text" name="dzchd" size="5"  value = "12"></td>
+</tr>
+<tr><td>电阻层长度*(mm)</td><td><input id="dzccd" type="text" name="dzccd" size="5"  value = "0.126"></td>
+<td>端电极厚度*(μm)</td><td><input id="ddjhd" type="text" name="ddjhd" size="5"  value = "5"></td>
+</tr>
+<tr><td>背电极宽度*(mm)</td><td><input id="bdjkd" type="text" name="bdjkd" size="5"  value = "0.09"></td>
+<td>背电极厚度*(μm)</td><td><input id="bdjhd" type="text" name="bdjhd" size="5"  value = "5"></td>
+</tr>
+<tr><td>一次保护层厚度*(μm)</td><td><input id="ycbhchd" type="text" name="ycbhchd" size="5"  value = "1"></td>
+<td>二次保护层厚度*(μm)</td><td><input id="ecbhchd" type="text" name="ecbhchd" size="5"  value = "10"></td>
+</tr>
+<tr><td>镀层厚度*(μm)</td><td><input id="dchd" type="text" name="dchd" size="5"  value = "20"></td>
+<td style="text-align: center;"><button type="button" onclick="updateV()">确认</button></td>
+</tr>
+
+</table>-->
+		<script>
+    
+    function setValue(e){
+    edL=document.getElementById("dL");
+    edW=document.getElementById("dW");
+    edH=document.getElementById("dH");
+    edI1=document.getElementById("dI1");
+    edI2=document.getElementById("dI2");
+    emdjkd=document.getElementById("mdjkd");
+    emdjcd=document.getElementById("mdjcd");
+    edzckd=document.getElementById("dzckd");
+    edzccd=document.getElementById("dzccd");
+    ebdjkd=document.getElementById("bdjkd");
+    
+    selfFlag=0;
+    switch(e){
+        case "0075":
+        dL=0.30;dW=0.15;dH=0.1;dI1=0.08;dI2=0.08;break;
+        case "0100":
+        dL=0.40;dW=0.20;dH=0.13;dI1=0.10;dI2=0.10;break;
+        case "0201":
+        dL=0.60;dW=0.30;dH=0.23;dI1=0.10;dI2=0.15;break;
+        case "0402":
+        dL=1.00;dW=0.50;dH=0.35;dI1=0.20;dI2=0.25;break;
+        case "0603":
+        dL=1.60;dW=0.80;dH=0.45;dI1=0.25;dI2=0.25;break;
+        case "0805":
+        dL=2.00;dW=1.25;dH=0.50;dI1=0.35;dI2=0.35;break;
+        case "1206":
+        dL=3.10;dW=1.60;dH=0.55;dI1=0.45;dI2=0.40;break;
+        case "1210":
+        dL=3.10;dW=2.60;dH=0.55;dI1=0.50;dI2=0.50;break;
+        case "1812":
+        dL=4.50;dW=3.20;dH=0.55;dI1=0.50;dI2=0.50;break;
+        case "2010":
+        dL=5.00;dW=2.50;dH=0.55;dI1=0.60;dI2=0.50;break;
+        case "2512":
+        dL=6.35;dW=3.20;dH=0.55;dI1=0.60;dI2=0.50;break;
+        case "selfDef":
+        dL=0.30;dW=0.15;dH=0.1;dI1=0.08;dI2=0.08;selfFlag=1;;break;}
+        readable=selfFlag==1?"":"readOnly";
+        edL.value=dL;edL.readOnly=readable;
+        edW.value=dW;edW.readOnly=readable;
+        edH.value=dH;edH.readOnly=readable;
+        edI1.value=dI1;edI1.readOnly=readable;
+        edI2.value=dI2;edI2.readOnly=readable;
+        ebdjkd.value=dW*0.6;
+        emdjkd.value=dW*0.6;
+        emdjcd.value=0.2*dL;
+        edzccd.value=0.9*(dL-2*dI1);
+        edzckd.value=0.8*dW;
+    }
+    
+    
+    function updateV()
+    {
+    edL=document.getElementById("dL");
+    edW=document.getElementById("dW");
+    edH=document.getElementById("dH");
+    edI1=document.getElementById("dI1");
+    edI2=document.getElementById("dI2");
+    emdjkd=document.getElementById("mdjkd");
+    emdjcd=document.getElementById("mdjcd");
+    edzckd=document.getElementById("dzckd");
+    edzccd=document.getElementById("dzccd");
+    ebdjkd=document.getElementById("bdjkd");
+    emdjhd=document.getElementById("mdjhd");
+    edzchd=document.getElementById("dzchd");
+    eddjhd=document.getElementById("ddjhd");
+    ebbdjhd=document.getElementById("bdjhd");
+    eycbhchd=document.getElementById("ycbhchd");
+    eecbhchd=document.getElementById("ecbhchd");
+    edchd=document.getElementById("dchd");
+    var baseH=edH.value-0.002*edchd.value;
+    var baseL=edL.value-0.002*eddjhd.value-0.002*edchd.value;
+    todel=[];/*
+    for( let i of scene.children){
+    if(i instanceof THREE.Mesh)
+    todel.push(i);}
+    for(let i of todel)
+    {scene.remove(i);}*/
+    
+    for( let i=0;i<scene.children.length;i++){
+    if(scene.children[i] instanceof THREE.Mesh)
+    todel.push(scene.children[i] );}
+    for(let i=0; i< todel.length;i++)
+    {scene.remove(todel[i]);}
+    //var geobase = new  THREE.Geometry();
+    var geobase = new THREE.BoxBufferGeometry( baseL, baseH, edW.value );
+    var cube = new THREE.Mesh( geobase, material );
+			scene.add( cube );
+    var dj1=new THREE.BoxBufferGeometry( 0.001*eddjhd.value+0.001*edchd.value, edH.value, edW.value );
+    var dj2=new THREE.BoxBufferGeometry( edI1.value, 0.001*edchd.value, edW.value );
+    var dj3=new THREE.BoxBufferGeometry( edI2.value, 0.001*edchd.value, edW.value );
+    var mm =new THREE.BoxBufferGeometry( edzccd.value, 0.001*edzchd.value+0.001*eycbhchd.value+0.001*eecbhchd.value, edW.value );
+    ma2=new THREE.MeshPhysicalMaterial( { color: 0x94999b,emissive:0x393939} );
+    ma2.side = THREE.DoubleSide;
+    ma2.roughness=0.70;
+    //ma2.clearcoat=1;
+    ma2.metalness=0.4;
+    //ma2.clearcoatRoughness =0.56
+    ma2.reflectivity=0.76;
+    var Mdj1=new THREE.Mesh( dj1, ma2 );
+    Mdj1.position.set(-baseL/2-0.0005*eddjhd.value-0.0005*edchd.value, 0,0);
+    scene.add(Mdj1);
+    var Mdj2=Mdj1.clone();
+    Mdj2.position.set(+baseL/2+0.0005*eddjhd.value+0.0005*edchd.value, 0,0);
+    scene.add(Mdj2);
+    var Mdj3=new THREE.Mesh( dj2, ma2 );
+    Mdj3.position.set(-edL.value/2+edI1.value/2, +baseH/2+0.0005*edchd.value,0);
+    scene.add(Mdj3);
+    var Mdj4=Mdj3.clone();
+    Mdj4.position.set(+edL.value/2-edI1.value/2, +baseH/2+0.0005*edchd.value,0);
+    scene.add(Mdj4);
+    var Mdj4=new THREE.Mesh( dj3, ma2 );
+    Mdj4.position.set(-edL.value/2+edI2.value/2, -baseH/2-0.0005*edchd.value,0);
+    scene.add(Mdj4);
+    var Mdj5=Mdj4.clone();
+    Mdj5.position.set(+edL.value/2-edI2.value/2, -baseH/2-0.0005*edchd.value,0);
+    scene.add(Mdj5);
+    var Mmm=new THREE.Mesh( mm, new THREE.MeshPhongMaterial( { color: 0x333333} ) );
+     Mmm.position.set(0, baseH/2+0.0005*edzchd.value+0.0005*eycbhchd.value+0.0005*eecbhchd.value,0);
+    scene.add(Mmm);
+    camera.position.set(1*edL.value,2*edL.value,3*edL.value)
+    
+    
+    }
+			var scene = new THREE.Scene();
+      scene.background = new THREE.Color( 0xe5ffd0 );
+			var camera = new THREE.PerspectiveCamera( 30, window.innerWidth/window.innerHeight, 0.1, 1000 );
+
+			var renderer = new THREE.WebGLRenderer({antialias:true});
+			renderer.setSize( window.innerWidth/2, window.innerHeight/2 );
+			document.getElementById("pos").appendChild( renderer.domElement );
+
+			var geometry = new THREE.BoxBufferGeometry( 0.30, 0.1, 0.15 );
+
+			var material = new THREE.MeshPhongMaterial( { color: 0xffffff, flatShading: true } );
+
+			var cube = new THREE.Mesh( geometry, material );
+			scene.add( cube );
+      //var geobase = new THREE.Geometry();
+      
+      camera.position.x=0.3;
+      camera.position.y=0.6;
+			camera.position.z = 0.9;
+      var material2 = new THREE.LineBasicMaterial({color:0x0000ff});
+      //camera.lookAt( 0, 0, 0 );
+      var geometry2 = new THREE.Geometry();
+      geometry2.vertices.push(new THREE.Vector3( -10, 0, 0) ,
+      new THREE.Vector3( 0, 10, 0) 
+      ,new THREE.Vector3( 10, 0, 0) );
+      var line = new THREE.Line( geometry2, material2 );
+      var controls = new THREE.OrbitControls( camera, renderer.domElement );
+        //scene.add(line);
+				var light = new THREE.DirectionalLight( 0xffffff );
+				light.position.set( 0, 2, 1 );
+				scene.add( light );
+
+				var light = new THREE.DirectionalLight( 0xfdfded );
+				light.position.set( -1, - 2,  1 );
+				scene.add( light );
+
+				var light = new THREE.AmbientLight( 0x222222 );
+				scene.add( light );
+        updateV();
+			var render = function () {
+				requestAnimationFrame( render );
+
+				//cube.rotation.x += 0.1;
+				//cube.rotation.y += 0.1;
+controls.update();
+				renderer.render(scene, camera);
+			};
+
+			render();
+		</script>
+	</body>
+</html>
